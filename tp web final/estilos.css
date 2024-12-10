@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&family=Pangolin&family=Rubik+Mono+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&family=Pangolin&family=Rubik+Doodle+Shadow&family=Rubik+Mono+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&family=Pangolin&family=Rubik+Doodle+Shadow&family=Rubik+Mono+One&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+body{
+background-color: red;
+}
+header{
+    text-align: center;
+}
+.card img {
+    width: 100%;
+    height: 60%;
+   
+}
+h1{
+    font-size: 60px;
+    font-family: rubik mono one;
+
+}
+h2{
+    font-size: 50px;
+    font-family: rubik doodle shadow;
+}
+p{
+    font-size: 20px;
+    font-family: rubik;
+}
+a{
+    font-size: 20px;
+    font-family: rubik;
+}
+div{
+    font-family: rubik;
+}
+h3{
+    font-size: 30px;
+    font-family: rubik;
+}
